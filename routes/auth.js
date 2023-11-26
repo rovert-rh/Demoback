@@ -12,4 +12,5 @@ router.post('/login',[
     validarCampos
 ], login);
 
+
 module.exports = router;
